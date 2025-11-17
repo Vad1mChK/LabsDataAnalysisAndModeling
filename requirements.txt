@@ -7,3 +7,5 @@ simpy
 plotly
 statsmodels
 scikit-learn
+tensorflow==2.10.*
+keras-tuner

@@ -1,0 +1,321 @@
+id,full_name,fan_full_name,display_name,fan_display_name,gender,nationality,birth_year_low,birth_year_high,death_year_low,death_year_high,alive,height_cm,debut_game,games,debut_case,offspring_count,kill_count
+0,Frank Sahwit,,Sahwit,,MALE,United States,1972,1972,,,TRUE,166,PW_AA,"PW_AA, AAI2",1-1,0,1
+1,Cindy Stone,,,,FEMALE,United States,1994,1994,2016,2016,FALSE,169,PW_AA,PW_AA,1-1,0,0
+2,Phoenix Wright,,Phoenix,,MALE,United States,1992,1993,,,TRUE,176,PW_AA,"PW_AA, PW_JFA, PW_TT, AJ_AA, AAI, AAI2, PL_VS_PW, PW_DD, PW_SOJ",1-1,0,0
+3,Mia Fey,,Mia,,FEMALE,United States,1989,1989,2016,2016,FALSE,168,PW_AA,"PW_AA, PW_TT",1-1,0,0
+4,Larry Butz,,Butz,,MALE,United States,1993,1994,,,TRUE,177,PW_AA,"PW_AA, PW_JFA, PW_TT, AAI, AAI2",1-1,0,0
+5,The Judge,,Judge,,MALE,United States,,1971,,,TRUE,170,PW_AA,"PW_AA, PW_JFA, PW_TT, AJ_AA, AAI, PW_DD, PW_SOJ",1-1,1,0
+6,Winston Payne,,Payne,,MALE,United States,1964,1965,,,TRUE,164,PW_AA,"PW_AA, PW_JFA, PW_TT, AJ_AA, AAI, AAI2",1-1,1,0
+7,Redd White,,White,,MALE,United States,1977,1977,,,TRUE,178,PW_AA,PW_AA,1-2,0,1
+8,Maya Fey,,Maya,,FEMALE,United States,1998,1999,,,TRUE,159,PW_AA,"PW_AA, PW_JFA, PW_TT, AAI, AAI2, PL_VS_PW, PW_SOJ",1-2,0,0
+9,Dick Gumshoe,,Gumshoe,,MALE,United States,1986,1986,,,TRUE,182,PW_AA,"PW_AA, PW_JFA, PW_TT, AJ_AA, AAI, AAI2",1-2,0,0
+10,Marvin Grossberg,,Grossberg,,MALE,United States,1952,1953,,,TRUE,166,PW_AA,"PW_AA, PW_TT",1-2,0,0
+11,Miles Edgeworth,,Edgeworth,,MALE,United States,1992,1993,,,TRUE,178,PW_AA,"PW_AA, PW_JFA, PW_TT, AAI, AAI2, PL_VS_PW, PW_DD, PW_SOJ",1-2,0,0
+12,April May,,April,,MALE,United States,1993,1993,,,TRUE,157,PW_AA,PW_AA,1-2,0,0
+13,Bellboy,,Bellboy,,MALE,United States,1990,1990,,,TRUE,172,PW_AA,"PW_AA, AAI",1-2,0,0
+14,Misty Fey; Elise Deauxnim,,Deauxnim,,FEMALE,United States,1970,1970,2019,2019,FALSE,164,PW_AA,"PW_AA, PW_TT",1-2,2,0
+15,Will Powers,,Powers,,MALE,United States,1993,1993,,,TRUE,185,PW_AA,"PW_AA, PW_JFA, AAI2",1-3,0,0
+16,Jack Hammer,,,,MALE,United States,1979,1979,2016,2016,FALSE,185,PW_AA,PW_AA,1-3,0,1
+17,Penny Nichols,,Penny,,FEMALE,United States,1998,1999,,,TRUE,155,PW_AA,"PW_AA, AAI2",1-3,0,0
+18,Wendy Oldbag,,Oldbag,,FEMALE,United States,,,,,TRUE,,PW_AA,"PW_AA, PW_JFA, AAI",1-3,0,0
+19,Cody Hackins,,Cody,,MALE,United States,2009,2009,,,TRUE,128,PW_AA,PW_AA,1-3,0,0
+20,Sal Manella,,Manella,,MALE,United States,1984,1984,,,TRUE,167,PW_AA,"PW_AA, AAI",1-3,0,0
+21,Dee Vasquez,,Vasquez,,FEMALE,United States,1982,1982,,,TRUE,166,PW_AA,PW_AA,1-3,0,1
+22,Manuel,,,,MALE,United States,,,2011,2011,FALSE,,PW_AA,PW_AA,1-3,0,0
+23,Robert Hammond,,,,MALE,United States,1968,1969,2016,2016,FALSE,,PW_AA,PW_AA,1-4,0,0
+24,Yanni Yogi,,Caretaker,,MALE,United States,1964,1964,,,TRUE,173,PW_AA,PW_AA,1-4,0,1
+25,Chief of Criminal Affairs,,Chief,,MALE,United States,,,,,TRUE,,PW_AA,"PW_AA, AAI",1-4,1,0
+26,Manfred von Karma,,Karma; Manfred,,MALE,Germany,1951,1952,2016,2019,FALSE,177,PW_AA,"PW_AA, AAI, AAI2",1-4,2,1
+27,Lotta Hart,,Lotta,,FEMALE,United States,1994,1995,,,TRUE,158,PW_AA,"PW_AA, PW_JFA, AAI, AAI2",1-4,0,0
+28,Polly Jenkins,,,,FEMALE,United States,,,2001,2016,FALSE,,PW_AA,PW_AA,1-4,0,1
+29,Manfred von Karma's Granddaughter,,,,FEMALE,Germany,2008,2009,,,TRUE,,PW_AA,PW_AA,1-4,0,0
+30,Gregory Edgeworth,,Gregory,,MALE,United States,1966,1967,2001,2001,FALSE,176,PW_AA,"PW_AA, AAI2",1-4,1,0
+31,Excelsius Winner,Blaise Debeste,,Blaise,MALE,United States,1951,1951,,,TRUE,182,AAI2,AAI2,I2-4,1,3
+32,Bruce Goodman,,,,MALE,United States,1980,1981,2017,2017,FALSE,176,PW_AA,PW_AA,1-5,0,0
+33,Ema Skye,,Ema,,FEMALE,United States,2000,2001,,,TRUE,161,PW_AA,"PW_AA, AJ_AA, AAI, AAI2, PW_SOJ",1-5,0,0
+34,Lana Skye,,Lana,,FEMALE,United States,1987,1988,,,TRUE,168,PW_AA,PW_AA,1-5,0,0
+35,Jake Marshall,,Marshall,,MALE,United States,1984,1984,,,TRUE,177,PW_AA,PW_AA,1-5,0,0
+36,Neil Marshall,,,,MALE,United States,1988,1988,2015,2015,FALSE,177,PW_AA,PW_AA,1-5,0,0
+37,Mike Meekins,,Meekins,,MALE,United States,1994,1995,,,TRUE,188,PW_AA,"PW_AA, AJ_AA, AAI",1-5,0,0
+38,Angel Starr,,Starr,,FEMALE,United States,1986,1986,,,TRUE,165,PW_AA,PW_AA,1-5,0,0
+39,Damon Gant,,Gant,,MALE,United States,1951,1952,,,TRUE,185,PW_AA,PW_AA,1-5,0,2
+40,Joe Darke,,,,MALE,United States,1972,1973,2015,2015,FALSE,,PW_AA,PW_AA,1-5,0,5
+41,Dustin Prince,,,,MALE,United States,1987,1987,2017,2017,FALSE,174,PW_JFA,PW_JFA,2-1,0,0
+42,Richard Wellington,,Wellington,,MALE,United States,1995,1996,,,TRUE,173,PW_JFA,PW_JFA,2-1,0,0
+43,Maggey Byrde,,Byrde,,FEMALE,United States,1995,1996,,,TRUE,160,PW_JFA,"PW_JFA, PW_TT, AAI",2-1,0,0
+44,Ini Miney,,Ini,,FEMALE,United States,1996,1997,2016,2016,FALSE,159,PW_JFA,PW_JFA,2-2,0,0
+45,Turner Grey,,Grey,,MALE,United States,1982,1983,2017,2017,FALSE,175,PW_JFA,PW_JFA,2-2,0,0
+46,Pearl Fey,,Pearl,,FEMALE,United States,2009,2010,,,TRUE,140,PW_JFA,"PW_JFA, PW_TT, PW_DD",2-2,0,0
+47,Morgan Fey,,Morgan,,FEMALE,United States,,1969,,,TRUE,166,PW_JFA,"PW_JFA, PW_TT",2-2,3,0
+48,Ami Fey,,,,FEMALE,United States,,,,,FALSE,,PW_JFA,"PW_JFA, PW_TT",2-2,0,0
+49,Dr. Hotti,,Hotti,,MALE,United States,,,,,TRUE,160,PW_JFA,"PW_JFA, AJ_AA",2-2,0,0
+50,Franziska von Karma,,von Karma; Franziska,,FEMALE,Germany,1999,1999,,,TRUE,162,PW_JFA,"PW_JFA, PW_TT, AAI, AAI2",2-2,0,0
+51,Mimi Miney,,Mimi,,FEMALE,United States,,1996,,,TRUE,159,PW_JFA,PW_JFA,2-2,0,15
+52,Billy Bob Johns; Maximillion 'Max' Galactica,,Max,,MALE,United States,1996,1997,,,TRUE,169,PW_JFA,PW_JFA,2-3,0,0
+53,Regina Berry,,Regina,,FEMALE,United States,2001,2002,,,TRUE,160,PW_JFA,"PW_JFA, AAI2",2-3,0,0
+54,Russell Berry,,Russell,,MALE,United States,1965,1966,2017,2017,FALSE,168,PW_JFA,PW_JFA,2-3,1,0
+55,Benjamin Woodman,,Ben,,MALE,United States,1986,1986,,,TRUE,179,PW_JFA,PW_JFA,2-3,0,0
+56,Lawrence 'Moe' Curls,,Moe,,MALE,Italy,1971,1972,,,TRUE,163,PW_JFA,PW_JFA,2-3,0,0
+57,Ken 'Acro' Dingling,,Acro,,MALE,United States,1991,1992,,,TRUE,180,PW_JFA,PW_JFA,2-3,0,1
+58,Sean 'Bat' Dingling,,Bat,,MALE,United States,1995,1996,,,TRUE,,PW_JFA,PW_JFA,2-3,0,0
+59,Shelly de Killer,,de Killer,,MALE,,,,,,TRUE,184,PW_JFA,"PW_JFA, AAI2",2-4,0,1
+60,Matt Engarde,,Engarde,,MALE,United States,1996,1997,,,TRUE,182,PW_JFA,PW_JFA,2-4,0,0
+61,Juan Corrida,,,,MALE,United States,1996,1997,2018,2018,FALSE,179,PW_JFA,PW_JFA,2-4,0,0
+62,Adrian Andrews,,Andrews,,FEMALE,United States,1994,1995,,,TRUE,163,PW_JFA,"PW_JFA, PW_TT",2-4,0,0
+63,Celeste Inpax,,,,FEMALE,United States,,,2016,2016,FALSE,,PW_JFA,PW_JFA,2-4,0,1
+64,Doug Swallow,,Swallow,,MALE,United States,1992,1992,2014,2014,FALSE,177,PW_TT,PW_TT,3-1,0,0
+65,Dahlia Hawthorne; Melissa Foster,,Dahlia,,FEMALE,United States,1993,1994,2019,2019,FALSE,155,PW_TT,PW_TT,3-1,0,2
+66,Diego Armando; Godot,,Armando; Godot,,MALE,United States,1985,1986,,,TRUE,185,PW_TT,PW_TT,3-1,0,1
+67,Ron DeLite,,Ron,,MALE,United States,1995,1996,,,TRUE,172,PW_TT,"PW_TT, AAI2",3-2,0,0
+68,Desirée DeLite,,Desirée,,MALE,United States,1995,1996,,,TRUE,166,PW_TT,"PW_TT, AAI2",3-2,0,0
+69,Luke Atmey,,Atmey,,MALE,United States,1983,1984,,,TRUE,173,PW_TT,PW_TT,3-2,0,1
+70,Kane Bullard,,,,MALE,United States,1970,1970,2018,2018,FALSE,168,PW_TT,PW_TT,3-2,0,0
+71,Judge's Brother,,Judge,,MALE,Canada,,1971,,,TRUE,,PW_TT,PW_TT,3-2,1,0
+72,Gutsen Brawn,,Brawn,,MALE,United States,,,,,TRUE,,PW_TT,PW_TT,3-3,0,0
+73,Glen Elg,,Elg,,MALE,United States,1990,1991,2018,2018,FALSE,182,PW_TT,PW_TT,3-3,0,0
+74,Lisa Basil,,Basil,,MALE,United States,,,,,TRUE,164,PW_TT,PW_TT,3-3,0,0
+75,Jean Armstrong,,Armstrong,,MALE,United States,1979,1980,,,TRUE,169,PW_TT,PW_TT,3-3,0,0
+76,Victor Kudo,,Kudo,,MALE,United States,1950,1951,,,TRUE,153,PW_TT,PW_TT,3-3,0,0
+77,Viola Cadaverini,,Viola,,MALE,United States,1993,1994,,,TRUE,154,PW_TT,PW_TT,3-3,0,0
+78,Bruto Cadaverini,,,,MALE,United States,1940,1941,,,TRUE,162,PW_TT,PW_TT,3-3,1,0
+79,Furio Tigre,,Tigre,,MALE,United States,1976,1977,,,TRUE,185,PW_TT,PW_TT,3-3,0,1
+80,Terry Fawles,,Fawles,,MALE,United States,1988,1988,2013,2013,FALSE,190,PW_TT,PW_TT,3-4,0,1
+81,Valerie Hawthorne,,Valeria,,FEMALE,United States,1990,1990,2013,2013,FALSE,160,PW_TT,PW_TT,3-4,0,0
+82,Iris,,Iris,,FEMALE,United States,1993,1994,,,TRUE,155,PW_TT,PW_TT,3-5,0,0
+83,Bikini,,Bikini,,FEMALE,United States,1970,1971,,,TRUE,140,PW_TT,PW_TT,3-5,0,0
+84,Adam Mada,,,,MALE,United States,,,,,TRUE,,PW_TT,PW_TT,3-5,0,0
+85,Kristoph Gavin,,Kristoph,,MALE,United States,1993,1994,,,TRUE,185,AJ_AA,AJ_AA,4-1,0,2
+86,Apollo Justice,,Apollo,,MALE,United States,2003,2004,,,TRUE,165,AJ_AA,"AJ_AA, PW_DD, PW_SOJ",4-1,0,0
+87,Shadi Enigmar; Shadi Smith; Zak Gramarye,,Zak,,MALE,United States,1979,1979,2026,2026,FALSE,,AJ_AA,AJ_AA,4-1,1,0
+88,Olga Orly,,Olga,,FEMALE,United States,2005,2005,,,TRUE,,AJ_AA,AJ_AA,4-1,0,0
+89,Trucy Wright,,Trucy,,FEMALE,United States,2010,2011,,,TRUE,152,AJ_AA,"AJ_AA, PW_DD, PW_SOJ",4-1,0,0
+90,Pal Meraktis,,Meraktis,,MALE,United States,1980,1980,,,TRUE,,AJ_AA,AJ_AA,4-2,0,0
+91,Guy Eldoon,,Guy,,MALE,United States,1980,1980,,,TRUE,,AJ_AA,AJ_AA,4-2,0,0
+92,Wocky Kitaki,,Wocky,,MALE,United States,2007,2007,,,TRUE,,AJ_AA,AJ_AA,4-2,0,0
+93,Plum Kitaki,,Plum,,FEMALE,United States,1984,1984,,,TRUE,,AJ_AA,AJ_AA,4-2,1,0
+94,Winfred Kitaki,,Big Wins,,MALE,United States,1970,1970,,,TRUE,,AJ_AA,AJ_AA,4-2,1,0
+95,Klavier Gavin,,Klavier,,MALE,United States,2001,2002,,,TRUE,180,AJ_AA,"AJ_AA, PW_DD, PW_SOJ",4-2,0,0
+96,Wesley Stickler,,Stickler,,MALE,United States,2004,2004,,,TRUE,,AJ_AA,AJ_AA,4-2,0,0
+97,Alita Tiala,,Alita,,FEMALE,United States,2005,2005,,,TRUE,,AJ_AA,AJ_AA,4-2,0,1
+98,Thalassa Gramarye; Lamiroir,,Lamiroir,,FEMALE,United States,1986,1986,,,TRUE,,AJ_AA,AJ_AA,4-3,2,0
+99,Romein LeTouse,,LeTouse,,MALE,,1991,1991,2026,2026,FALSE,,AJ_AA,AJ_AA,4-3,0,0
+100,Valant Gramarye,,Valant,,MALE,United States,1982,1982,,,TRUE,,AJ_AA,AJ_AA,4-3,0,0
+101,Machi Tobaye,,Machi,,MALE,Borginia,2012,2012,,,TRUE,,AJ_AA,AJ_AA,4-3,0,0
+102,Daryan Crescend,,Daryan,,MALE,United States,2002,2002,,,TRUE,,AJ_AA,AJ_AA,4-3,0,1
+103,Magnifi Gramarye,,Magnifi,,MALE,United States,1951,1952,2019,2019,FALSE,,AJ_AA,AJ_AA,4-4,1,1
+104,Spark Brushel,,Brushel,,MALE,United States,1990,1990,,,TRUE,,AJ_AA,AJ_AA,4-4,0,0
+105,Drew Misham,,Drew,,MALE,United States,1974,1974,2026,2026,FALSE,,AJ_AA,AJ_AA,4-4,1,0
+106,Vera Misham,,Vera,,FEMALE,United States,2007,2007,,,TRUE,,AJ_AA,AJ_AA,4-4,0,0
+107,Jove Justice,,,,MALE,United States,,,2005,2005,FALSE,,AJ_AA,"AJ_AA, PW_SOJ",4-4,1,0
+108,Jacques Portsman,,Portsman,,MALE,United States,1989,1990,,,TRUE,175,AAI,AAI,I-1,0,1
+109,Buddy Faith,,,,MALE,United States,1989,1990,2019,2019,FALSE,170,AAI,AAI,I-1,0,0
+110,Tyrell Badd,,Badd,,MALE,United States,1958,1959,,,TRUE,189,AAI,"AAI, AAI2",I-1,0,0
+111,Akbey Hicks,,,,MALE,Borginia,1991,1991,2019,2019,FALSE,176,AAI,AAI,I-2,0,0
+112,Rhoda Teneiro,,Teneiro,,FEMALE,United States,1995,1995,,,TRUE,165,AAI,AAI,I-2,0,0
+113,Zinc Lablanc II,,Lablanc,,MALE,Borginia,1956,1957,,,TRUE,166,AAI,AAI,I-2,0,0
+114,Cammy Meele,,Meele,,FEMALE,United States,1994,1995,,,TRUE,152,AAI,AAI,I-2,0,1
+115,Hugo Ifly,,,,MALE,United States,,1939,,,FALSE,,AAI,AAI,I-2,0,0
+116,G-390 Flight Captain,I-390 Flight Captain,Captain,,MALE,United States,,,,,TRUE,,AAI,AAI,I-2,0,0
+117,Lance Amano,,Lance,,MALE,United States,1998,1998,,,TRUE,169,AAI,AAI,I-3,0,1
+118,Kay Faraday,,Kay,,FEMALE,United States,2001,2002,,,TRUE,163,AAI,"AAI, AAI2",I-3,0,0
+119,Ernest Amano,,Ernest,,MALE,United States,1968,1968,,,TRUE,168,AAI,AAI,I-3,1,0
+120,Colin Devorae; Oliver Deacon,,,,MALE,United States,1968,1969,2019,2019,FALSE,172,AAI,AAI,I-3,1,0
+121,Shi-Long Lang,,Lang,,MALE,Zheng Fa,1991,1992,,,TRUE,180,AAI,"AAI, AAI2",I-3,0,0
+122,Shih-na; Calisto Yew,,Shih-na; Yew,,FEMALE,United States,1989,1990,,,TRUE,168,AAI,AAI,I-3,0,2
+123,Lauren Paups,,Paups,,FEMALE,United States,1999,2000,,,TRUE,156,AAI,AAI,I-3,0,0
+124,Byrne Faraday,,,,MALE,United States,1971,1972,2012,2012,FALSE,176,AAI,AAI,I-4,1,0
+125,Mack Rell,,,,MALE,United States,1979,1979,2012,2012,FALSE,168,AAI,AAI,I-4,0,1
+126,Manny Coachen,,Coachen,,MALE,Cohdopia,1987,1988,2019,2019,FALSE,183,AAI,AAI,I-4,0,1
+127,Deid Mann,,,,MALE,Cohdopia,1958,1958,2012,2012,FALSE,,AAI,AAI,I-4,0,0
+128,Cece Yew,,Yew,,FEMALE,Cohdopia,1990,,2009,2009,FALSE,,AAI,AAI,I-4,0,0
+129,Ka-Shi Nou,,,,MALE,,1989,1990,2019,2019,FALSE,160,AAI,AAI,I-5,0,0
+130,Colias Palaeno,,Palaeno,,MALE,Cohdopia,1981,1982,,,TRUE,179,AAI,AAI,I-5,0,0
+131,Quercus Alba,,Alba,,MALE,Cohdopia,1947,1947,,,TRUE,180,AAI,AAI,I-5,0,2
+132,Di-Jun Wang (body double),Di-Jun Huang (body double),Wang,Huang,MALE,Zheng Fa,,,2019,2019,FALSE,183,AAI2,AAI2,I2-1,0,1
+133,Di-Jun Wang,Di-Jun Huang,,,MALE,Zheng Fa,,,2007,2007,FALSE,183,AAI2,AAI2,I2-1,1,0
+134,Bronco Knight,Horace Knightley,Knight,Knightley,MALE,United States,1994,1995,2019,2019,FALSE,185,AAI2,AAI2,I2-1,0,1
+135,Bastian Rook,Ethan Rooke,,,MALE,United States,1984,1984,2019,2019,FALSE,180,AAI2,AAI2,I2-1,0,0
+136,Tabby Lloyd,Nicole Swift,Lloyd,Swift,FEMALE,United States,1999,1999,,,TRUE,159,AAI2,AAI2,I2-1,0,0
+137,Eddie Fender,Raymond Shields,Fender,Ray,MALE,United States,1982,1983,,,TRUE,175,AAI2,AAI2,I2-2,0,0
+138,Simeon Saint,Simon Keyes,Saint,Keyes,MALE,United States,1994,1995,,,TRUE,178,AAI2,AAI2,I2-2,0,1
+139,Eustace Winner,Sebastian Debeste,Winner,Debeste,MALE,United States,2002,2002,,,TRUE,173,AAI2,AAI2,I2-2,0,0
+140,Verity Gavèlle,Justine Courtney,Gavèlle,Courtney,FEMALE,United States,1993,1993,,,TRUE,165,AAI2,AAI2,I2-2,0,0
+141,Fifi Laguarde,Patricia Roland,,Roland,FEMALE,United States,1982,1982,,,TRUE,164,AAI2,AAI2,I2-2,0,1
+142,Rocco Carcerato,Jay Elbird,,Elbird,MALE,United States,1988,1988,,,TRUE,167,AAI2,AAI2,I2-2,0,0
+143,Bodhidharma Kanis,Sirhan Dogen,Kanis,Dogen,MALE,United States,,,,,TRUE,165,AAI2,AAI2,I2-2,0,1
+144,Judy Bound,Katherine Hall,,Kate,FEMALE,United States,1984,1985,,,TRUE,164,AAI2,AAI2,I2-3,0,0
+145,Samson Tangaroa,Jeffrey 'Jeff' Master,,Master,MALE,United States,1961,1961,,,TRUE,186,AAI2,AAI2,I2-3,0,0
+146,Artie Frost; Paul Halique,Pierre Hoquet; Isaac Dover,,,MALE,France,1962,1962,2000,2000,FALSE,176,AAI2,AAI2,I2-3,1,0
+147,Carmelo Gusto,Dane Gustavia,,Gustavia,MALE,,1964,1965,,,TRUE,177,AAI2,AAI2,I2-3,1,1
+148,Delicia Scone,Delicia Scones,Delicia,Delicia,FEMALE,United States,,1958,,,TRUE,142,AAI2,AAI2,I2-3,0,0
+149,Ian Sideman,Rip Lacer,,,MALE,United States,,,,,TRUE,,AAI2,AAI2,I2-3,0,0
+150,Shaun Fenn,John Marsh,,John,MALE,United States,2006,2006,,,TRUE,149,AAI2,AAI2,I2-3,0,0
+151,Rosie Ringer,Jill Crane,,,FEMALE,United States,1986,1986,2019,2019,FALSE,163,AAI2,AAI2,I2-4,0,0
+152,Florence Niedler,Karin Jenson,,Karin,FEMALE,United States,1997,1997,,,TRUE,163,AAI2,AAI2,I2-4,0,0
+153,Hilda Hertz,Bonnie Young,,Young,FEMALE,United States,1959,1959,,,TRUE,157,AAI2,AAI2,I2-4,0,0
+154,Alf Aldown,Jack Cameron,,,MALE,United States,1975,1976,2007,2007,FALSE,176,AAI2,AAI2,I2-5,0,0
+155,Amelie Fenn,Amy Marsh,,,FEMALE,United States,,,2014,2014,FALSE,,AAI2,AAI2,I2-5,1,0
+156,Da-Long Lang,Dai-Long Lang,,,MALE,Zheng Fa,,,2007,2011,FALSE,,AAI2,AAI2,I2-5,1,0
+157,Chelmey,,Chelmey,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,0
+158,Barton,,Barton,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,0
+159,Hershel Layton,,Layton,,MALE,United Kingdom,1981,1982,,,TRUE,176,PL_VS_PW,PL_VS_PW,VS-1,0,0
+160,Luke Triton,,Luke,,MALE,United Kingdom,2005,2006,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,0
+161,Carmine Accidenti,,Carmine,,MALE,United Kingdom,,,,,TRUE,154,PL_VS_PW,PL_VS_PW,VS-1,0,0
+162,Espella Cantabella,,Espella,,FEMALE,Labyrinthia,2000,2001,,,TRUE,154,PL_VS_PW,PL_VS_PW,VS-1,0,0
+163,Constable,,Constable,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,0
+164,Eve Belduke (Darklaw),,Darklaw,,FEMALE,Labyrinthia,1998,1999,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,1
+165,Flynch,,Flynch,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
+166,Judge (England),,Judge,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
+167,Johnny Smiles,,Smiles,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
+168,Olivia Aldente,,Aldente,,FEMALE,Italy,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
+169,Wagon Driver,,Wagon Driver,,FEMALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+170,Knight Captain,,Captain,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+171,Cecil,,Cecil,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+172,Petal,,Petal,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+173,Muffet,,Muffet,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+174,Petter,,Petter,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+175,Tuggit,,Tuggit,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+176,Allan,,Allan,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+177,Mary,,Mary,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+178,Patty Eclaire,,Patty,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+179,Lettie Mailer,,Mailer,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+180,Dewey,,Dewey,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+181,Ridelle Mystere,,Ridelle,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+182,Bardly,,Bardly,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+183,Zacharias Barnham,,Barnham,,MALE,Labyrinthia,,,,,TRUE,176,PL_VS_PW,PL_VS_PW,VS-3,0,0
+184,Cinderella,,,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+185,Nozey,,,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+186,Price,,Price,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,0,0
+187,Arthur Cantabella,,Storyteller,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-3,1,0
+188,Judge (Labyrinthia),,Judge,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+189,Kira,,Kira,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+190,Knightle,,Knightle,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+191,Muggs,,Muggs,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+192,Emeer Punchenbaug,,Punchenbaug; Some Guy,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+193,Robbs,,Robbs,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+194,Wordsmith,,Wordsmith,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-4,0,0
+195,Birdly,,Birdly,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-5,0,0
+196,Newton Belduke,,Belduke,,MALE,Labyrinthia,,,,,FALSE,,PL_VS_PW,PL_VS_PW,VS-5,1,1
+197,Cutter,,,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-5,0,0
+198,Jean Greyerl,,,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-5,0,0
+199,Old Rootie,,,,FEMALE,Labyrinthia,1918,1919,,,TRUE,142,PL_VS_PW,PL_VS_PW,VS-5,0,0
+200,Primstone,,Primstone,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-5,0,0
+201,Cooper,,,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-7,0,0
+202,Boistrum,,Boistrum,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-9,0,0
+203,Dzibilchaltunchunchucmil,,Dzibilchaltunchunchucmil,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-9,0,0
+204,Balmung,,Balmung,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+205,Foxy,,Foxy,,FEMALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+206,Lottalance,,Lottalance,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+207,Lyewood,,Lyewood,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+208,Servius,,Servius,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+209,Shakey,,Shakey,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+210,Treddon,,Treddon,,MALE,Labyrinthia,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-10,0,0
+211,Candice Arme,,,,FEMALE,United States,2000,2000,2027,2027,FALSE,,PW_DD,PW_DD,5-1,0,0
+212,Ted Tonate,,Tonate,,MALE,United States,1985,1985,,,TRUE,170,PW_DD,PW_DD,5-1,0,1
+213,Athena Cykes,,Athena,,FEMALE,United States,2009,2009,,,TRUE,162,PW_DD,"PW_DD, PW_SOJ",5-1,0,0
+214,Juniper Woods,,Woods,,FEMALE,United States,2009,2009,,,TRUE,155,PW_DD,PW_DD,5-1,0,0
+215,Gaspen Payne,,Payne,,MALE,United States,1972,1972,,,TRUE,164,PW_DD,"PW_DD, PW_SOJ",5-1,0,0
+216,Jinxie Tenma,,Jinxie,,FEMALE,United States,2012,2012,,,TRUE,147,PW_DD,"PW_DD, PW_SOJ",5-2,0,0
+217,Damian Tenma,,Tenma,,MALE,United States,1982,1982,,,TRUE,192,PW_DD,"PW_DD, PW_SOJ",5-2,1,0
+218,Rex Kyubi,,,,MALE,United States,1981,1981,2027,2027,FALSE,,PW_DD,PW_DD,5-2,0,0
+219,Phineas Filch,,Filch,,MALE,United States,1977,1977,,,TRUE,151,PW_DD,PW_DD,5-2,0,0
+220,Azuki Kozo,,,,MALE,Japan,,,,,FALSE,,PW_DD,PW_DD,5-2,1,0
+221,Simon Blackquill,,Blackquill,,MALE,United States,1999,1999,,,TRUE,188,PW_DD,"PW_DD, PW_SOJ",5-2,0,0
+222,Pretty Boy Vampire,,,,MALE,United States,,,,,TRUE,,PW_DD,PW_DD,5-2,0,0
+223,Timothy Twilight,,,,MALE,United States,,,,,TRUE,,PW_DD,PW_DD,5-2,0,0
+224,Howlin' Wolf,,,,MALE,United States,,,,,TRUE,,PW_DD,PW_DD,5-2,0,0
+225,Phantom,,???,,MALE,,,,,,TRUE,,PW_DD,PW_DD,5-2,0,3
+226,Florent L'Belle,,L'Belle,,MALE,United States,1994,1994,,,TRUE,177,PW_DD,PW_DD,5-2,0,1
+227,Bobby Fulbright,,Fulbright,,MALE,United States,1993,1994,2026,2026,FALSE,183,PW_DD,PW_DD,5-2,0,0
+228,Constance Courte,,,,FEMALE,United States,1980,1980,2027,2027,FALSE,181,PW_DD,PW_DD,5-3,0,0
+229,Aristotle Means,,Means,,MALE,United States,1981,1981,,,TRUE,196,PW_DD,PW_DD,5-3,0,1
+230,Robin Newman,,Newman,,FEMALE,United States,2009,2009,,,TRUE,158,PW_DD,PW_DD,5-3,0,0
+231,Hugh O'Conner,,O'Conner,,MALE,United States,2002,2002,,,TRUE,179,PW_DD,PW_DD,5-3,0,0
+232,Myriam Scuttlebutt,,Scuttlebutt,,FEMALE,United States,2010,2010,,,TRUE,144,PW_DD,PW_DD,5-3,0,0
+233,Yuri Cosmos,,Cosmos,,MALE,United States,1965,1962,,,TRUE,160,PW_DD,PW_DD,5-4,0,0
+234,Metis Cykes,,,,FEMALE,United States,1986,1987,2020,2020,FALSE,,PW_DD,PW_DD,5-4,1,0
+235,Aura Blackquill,,Aura,,FEMALE,United States,1990,1990,,,TRUE,170,PW_DD,PW_DD,5-4,0,0
+236,Solomon Starbuck,,Starbuck,,MALE,United States,1994,1994,,,TRUE,173,PW_DD,PW_DD,5-4,0,0
+237,Clay Terran,,,,MALE,United States,2004,2004,2027,2027,FALSE,172,PW_DD,PW_DD,5-4,0,0
+238,Sasha Buckler,,Buckler,,FEMALE,United States,2005,2005,,,TRUE,160,PW_DD,PW_DD,5-6,0,0
+239,Herman Crab,,Crab,,MALE,United States,1987,1987,,,TRUE,175,PW_DD,PW_DD,5-6,0,0
+240,Norma DePlume,,DePlume,,FEMALE,United States,1991,1991,,,TRUE,164,PW_DD,PW_DD,5-6,0,0
+241,Marlon Rimes,,Rimes,,MALE,United States,2006,2006,,,TRUE,180,PW_DD,PW_DD,5-6,0,0
+242,Jack Shipley,,,,MALE,United States,1970,1970,2027,2027,FALSE,,PW_DD,PW_DD,5-6,0,0
+243,Azura Summers,,,,FEMALE,United States,2004,2004,2026,2026,FALSE,,PW_DD,PW_DD,5-6,0,0
+244,John Wilson,,Wilson,,MALE,United Kingdom,1855,1855,1901,1901,FALSE,,TGAA,TGAA,G-1,0,0
+245,Ryunosuke Naruhodo,,Ryunosuke,,MALE,Japan,1879,1879,,,TRUE,168,TGAA,"TGAA, TGAA2",G-1,1,0
+246,Kazuma Asogi,,Kazuma,,MALE,Japan,1878,1878,,,TRUE,174,TGAA,TGAA,G-1,0,0
+247,Seishiro Jigoku,,Jigoku,,MALE,Japan,1859,1859,,,TRUE,,TGAA,TGAA,G-1,0,2
+248,Taketsuchi Auchi,,Auchi,,MALE,Japan,1850,1850,,,TRUE,,TGAA,TGAA,G-1,1,0
+249,Asa Shinn; Jezaille Brett,,,,FEMALE,United Kingdom,1877,1877,1902,1902,FALSE,,TGAA,TGAA,G-1,0,2
+250,Satoru Hosonaga,,Hosonaga,,MALE,Japan,1872,1872,,,TRUE,178,TGAA,TGAA,G-1,0,0
+251,Yujin Mikotoba,,Mikotoba,,MALE,Japan,1859,1859,,,TRUE,,TGAA,TGAA,G-1,1,0
+252,Susato Mikotoba,,Susato,,FEMALE,Japan,1886,1886,,,TRUE,153,TGAA,TGAA,G-1,0,0
+253,Kyurio Korekuta,,Japan,,MALE,Japan,1835,1835,,,TRUE,,TGAA,TGAA,G-1,0,0
+254,Aido Nosa,,,,MALE,Japan,,,,,TRUE,,TGAA,TGAA,G-1,0,0
+255,Iyesa Nosa,,Nosa,,MALE,Japan,1864,1864,,,TRUE,,TGAA,TGAA,G-1,1,0
+256,Vilen Borshevik,,,,MALE,Russia,,,,,TRUE,,TGAA,TGAA,G-2,0,0
+257,Nikolina Pavlova,,,,FEMALE,Russia,1887,1887,,,TRUE,,TGAA,"TGAA, TGAA2",G-2,0,0
+258,Herlock Sholmes,,,,MALE,United Kingdom,1868,1868,,,TRUE,183,TGAA,"TGAA, TGAA2",G-2,0,0
+259,Bif Strogenov,,,,MALE,Russia,1865,1865,,,TRUE,,TGAA,TGAA,G-2,0,0
+260,Iris Wilson,,,,FEMALE,United Kingdom,1892,1892,,,TRUE,120,TGAA,"TGAA, TGAA2",G-2,0,0
+261,Beppo,,,,MALE,United Kingdom,1840,1840,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+262,Bruce Fairplay,,,,MALE,Australia,1868,1868,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+263,Lay D. Furst,,,,MALE,United Kingdom,1881,1881,,,TRUE,,TGAA,TGAA,G-3,0,0
+264,Tobias Gregson,,,,MALE,United Kingdom,1857,1857,1902,1902,FALSE,,TGAA,"TGAA, TGAA2",G-3,0,1
+265,Chalan Musgrave,,,,MALE,,,,1902,1902,FALSE,,TGAA2,TGAA2,G2-5,0,0
+266,Judge (British Empire),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+267,Juror 1 (banker),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+268,Juror 2 (maid),,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA,TGAA,G-3,0,0
+269,Juror 3 (barber),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,TGAA,G-3,0,0
+270,Juror 4 (typewritist),,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA,TGAA,G-3,0,0
+271,Juror 5 (guild master),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+272,Juror 6 (elderly woman),,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,1,0
+273,Gina Lestrade,,,,FEMALE,United Kingdom,1884,1884,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+274,Magnus McGilded,,,,MALE,United Kingdom,1854,1854,1902,1902,FALSE,153,TGAA,TGAA,G-3,0,1
+275,Mason Milverton,,,,MALE,United Kingdom,1848,1848,1902,1902,FALSE,,TGAA,TGAA,G-3,1,0
+276,Ashley Graydon,,,,MALE,United Kingdom,1875,1875,,,TRUE,,TGAA,TGAA,G-3,0,1
+277,Mael Stronghart,,,,MALE,United Kingdom,1849,1849,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+278,Barok van Zieks,,,,MALE,United Kingdom,1869,1869,,,TRUE,,TGAA,"TGAA, TGAA2",G-3,0,0
+279,Queen Victoria,,,,FEMALE,United Kingdom,1819,1819,1901,1902,FALSE,,TGAA,"TGAA, TGAA2",G-3,0,0
+280,Patricia Beate,,,,FEMALE,United Kingdom,1881,1881,,,TRUE,,TGAA,TGAA,G-4,0,0
+281,Roly Beate,,,,MALE,United Kingdom,1879,1879,,,TRUE,,TGAA,TGAA,G-4,0,0
+282,Joan Garrideb,,,,FEMALE,United Kingdom,1864,1864,,,TRUE,,TGAA,TGAA,G-4,0,0
+283,John Garrideb,,,,MALE,United Kingdom,1858,1858,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,0
+284,Olive Green,,,,FEMALE,United Kingdom,1882,1882,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,0
+285,Duncan Ross,,,,MALE,United Kingdom,1881,1881,1902,1902,FALSE,,TGAA2,TGAA2,G2-2,0,0
+286,Juror 2 (young woman),,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,0
+287,Juror 3 (young man),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,0
+288,Juror 5 (laborer),,,,MALE,United Kingdom,,,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,1,0
+289,Juror 6 (elderly man),,,,MALE,United Kingdom,1826,1826,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,1,0
+290,Adron B. Metermann,,,,MALE,United Kingdom,1879,1879,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,0
+291,Soseki Natsume,,,,MALE,Japan,1867,1869,1916,1916,FALSE,,TGAA,"TGAA, TGAA2",G-4,0,0
+292,William Shamspeare,,,,MALE,United Kingdom,1871,1871,,,TRUE,,TGAA,"TGAA, TGAA2",G-4,0,1
+293,Genshin Asogi,,,,MALE,Japan,,,1892,1892,FALSE,,TGAA,"TGAA, TGAA2",G-5,1,1
+294,Nash Skulkin,,,,MALE,United Kingdom,1876,1876,,,TRUE,,TGAA,TGAA,G-5,0,0
+295,Ringo Skulkin,,,,MALE,United Kingdom,1875,1875,,,TRUE,,TGAA,TGAA,G-5,0,0
+296,Pop Windibank,,,,MALE,United Kingdom,,,1902,1902,TRUE,,TGAA,"TGAA, TGAA2",G-5,0,0
+297,Ahlbi Ur'gaid,,,,MALE,Khura'in,2019,2019,,,TRUE,144,PW_SOJ,PW_SOJ,6-1,0,0
+298,Pees'lubn Andistan'dhin,,,,MALE,Khura'in,1992,1992,,,TRUE,176,PW_SOJ,PW_SOJ,6-1,0,1
+299,Paht Rohl,,,,MALE,Khura'in,1996,1996,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-1,0,0
+300,Inga Karkhuul Haw'kohd Dis'nahm Bi'ahni Lawga Ormo Pohmpus Da'nit Ar'edi Iz Khura'in III,,,,MALE,Khura'in,1982,1982,2028,2028,FALSE,185,PW_SOJ,PW_SOJ,6-1,0,1
+301,Datz Are'bal,,,,MALE,Khura'in,1982,1982,,,TRUE,186,PW_SOJ,PW_SOJ,6-1,0,0
+302,Judge (Khura'in),,Judge,,MALE,Khura'in,,,,,TRUE,,PW_SOJ,PW_SOJ,6-1,1,0
+303,Ga'ran Sigatar Khura'in,,,,FEMALE,Khura'in,1985,1985,,,TRUE,172,PW_SOJ,PW_SOJ,6-3,0,1
+304,Rayfa Padma Khura'in,,,,FEMALE,Khura'in,2013,2013,,,TRUE,148,PW_SOJ,PW_SOJ,6-1,0,0
+305,Amara Sigatar Khura'in; Nayna,,,,FEMALE,Khura'in,1984,1984,,,TRUE,172,PW_SOJ,PW_SOJ,6-1,2,0
+306,Manov Mistree; Mr. Reus,,,,MALE,United States,1998,1998,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-2,0,0
+307,Roger Retinz,,,,MALE,United States,1992,1993,,,TRUE,178,PW_SOJ,PW_SOJ,6-2,0,1
+308,Betty de Famme,,,,FEMALE,United States,2009,2009,,,TRUE,150,PW_SOJ,PW_SOJ,6-2,0,0
+309,Bonny de Famme,,,,FEMALE,United States,2009,2009,,,TRUE,150,PW_SOJ,PW_SOJ,6-2,0,0
+310,Nahyuta Sahdmadhi,,,,MALE,Khura'in,2003,2003,,,TRUE,182,PW_SOJ,PW_SOJ,6-2,0,0
+311,Dhurke Sahdmadhi,,,,MALE,Khura'in,1983,1983,2028,2028,FALSE,183,PW_SOJ,PW_SOJ,6-1,2,0
+312,Holy Mother,,,,FEMALE,Khura'in,601,700,,,FALSE,,PW_SOJ,PW_SOJ,6-1,1,0
+313,Beh'leeb Inmee,,,,FEMALE,Khura'in,1996,1997,,,TRUE,160,PW_SOJ,PW_SOJ,6-3,1,1
+314,Tahrust Inmee,,,,MALE,Khura'in,1986,1986,2028,2028,FALSE,175,PW_SOJ,PW_SOJ,6-3,1,1
+315,Faitah Inmee,,,,MALE,Khura'in,2028,2028,,,TRUE,,PW_SOJ,PW_SOJ,6-3,0,0
+316,Lady Kee'ra,,,,FEMALE,Khura'in,,,,,FALSE,,PW_SOJ,PW_SOJ,6-3,0,0
+317,Puhray Zeh'lot,,,,MALE,Khura'in,2007,2028,,,FALSE,,PW_SOJ,PW_SOJ,6-3,0,0
+318,Geiru Toneido,,,,FEMALE,United States,1994,1994,,,TRUE,,PW_SOJ,PW_SOJ,6-4,0,1
+319,Taifu Toneido,,,,MALE,United States,1957,1958,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-4,0,0

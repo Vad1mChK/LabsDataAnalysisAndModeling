@@ -1,0 +1,12 @@
+id,name,acronym,collection,release_date_earliest,release_date_collection,languages
+0,Phoenix Wright: Ace Attorney,PW_AA,Phoenix Wright: Ace Attorney Trilogy,12.10.2001,17.04.2014,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR, es-MX, pt-BR"
+1,Phoenix Wright: Ace Attorney - Justice for All,PW_JFA,Phoenix Wright: Ace Attorney Trilogy,18.10.2002,17.04.2014,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR, es-MX, pt-BR"
+2,Phoenix Wright: Ace Attorney - Trials and Tribulations,PW_TT,Phoenix Wright: Ace Attorney Trilogy,23.01.2004,17.04.2014,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR, es-MX, pt-BR"
+3,Apollo Justice: Ace Attorney,AJ_AA,Apollo Justice: Ace Attorney Trilogy,12.04.2007,25.01.2024,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR"
+4,Ace Attorney Investigations: Miles Edgeworth,AAI,Ace Attorney Investigations Collection,28.05.2009,06.09.2024,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR"
+5,Ace Attorney Investigations 2: Prosecutor's Gambit,AAI2,Ace Attorney Investigations Collection,03.02.2011,06.09.2024,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR"
+6,Professor Layton vs. Phoenix Wright: Ace Attorney,PL_VS_PW,,29.11.2012,,"ja-JP, en-US, de-DE, nl-NL, fr-FR, it-IT, es-ES"
+7,Phoenix Wright: Ace Attorney - Dual Destinies,PW_DD,Apollo Justice: Ace Attorney Trilogy,25.07.2013,25.01.2024,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR"
+8,The Great Ace Attorney: Adventures,TGAA,The Great Ace Attorney Chronicles,09.07.2015,27.07.2021,"ja-JP, en-US"
+9,Phoenix Wright: Ace Attorney - Spirit of Justice,PW_SOJ,Apollo Justice: Ace Attorney Trilogy,09.06.2016,25.01.2024,"ja-JP, en-US, zh-CN, zh-HK, ko-KR, de-DE, fr-FR"
+10,The Great Ace Attorney 2: Resolve,TGAA2,The Great Ace Attorney Chronicles,03.08.2017,27.07.2021,"ja-JP, en-US"

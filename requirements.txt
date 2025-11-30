@@ -7,7 +7,7 @@ simpy
 plotly
 statsmodels
 scikit-learn
-tensorflow
+tensorflow[and-cuda]
 keras
 keras-tuner
 geopandas
@@ -16,3 +16,4 @@ descartes
 adjustText
 networkx
 nltk
+requests

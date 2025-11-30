@@ -163,7 +163,7 @@ id,full_name,fan_full_name,display_name,fan_display_name,gender,nationality,birt
 161,Carmine Accidenti,,Carmine,,MALE,United Kingdom,,,,,TRUE,154,PL_VS_PW,PL_VS_PW,VS-1,0,0
 162,Espella Cantabella,,Espella,,FEMALE,Labyrinthia,2000,2001,,,TRUE,154,PL_VS_PW,PL_VS_PW,VS-1,0,0
 163,Constable,,Constable,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,0
-164,Eve Belduke (Darklaw),,Darklaw,,FEMALE,Labyrinthia,1998,1999,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,1
+164,Eve Belduke; Darklaw,,Darklaw,,FEMALE,Labyrinthia,1998,1999,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-1,0,1
 165,Flynch,,Flynch,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
 166,Judge (England),,Judge,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
 167,Johnny Smiles,,Smiles,,MALE,United Kingdom,,,,,TRUE,,PL_VS_PW,PL_VS_PW,VS-2,0,0
@@ -317,5 +317,50 @@ id,full_name,fan_full_name,display_name,fan_display_name,gender,nationality,birt
 315,Faitah Inmee,,,,MALE,Khura'in,2028,2028,,,TRUE,,PW_SOJ,PW_SOJ,6-3,0,0
 316,Lady Kee'ra,,,,FEMALE,Khura'in,,,,,FALSE,,PW_SOJ,PW_SOJ,6-3,0,0
 317,Puhray Zeh'lot,,,,MALE,Khura'in,2007,2028,,,FALSE,,PW_SOJ,PW_SOJ,6-3,0,0
-318,Geiru Toneido,,,,FEMALE,United States,1994,1994,,,TRUE,,PW_SOJ,PW_SOJ,6-4,0,1
+318,Geiru Toneido,,,,FEMALE,United States,1994,1994,,,TRUE,164,PW_SOJ,PW_SOJ,6-4,0,1
 319,Taifu Toneido,,,,MALE,United States,1957,1958,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-4,0,0
+320,Uendo Toneido; Patches; Kisegawa; Owen,,,,MALE,United States,2000,2000,,,TRUE,166,PW_SOJ,PW_SOJ,6-4,0,0
+321,Uendo Toneido (former),,,,MALE,United States,,,,,FALSE,,PW_SOJ,PW_SOJ,6-4,1,0
+322,Bucky Whet,,,,MALE,United States,2008,2008,,,TRUE,160,PW_SOJ,PW_SOJ,6-4,0,0
+323,Abraham Atishon,,,,MALE,United States,,,,,TRUE,,PW_SOJ,PW_SOJ,6-5,1,0
+324,Paul Atishon-Wimperson,,,,MALE,United States,2002,2003,,,TRUE,162,PW_SOJ,PW_SOJ,6-5,0,1
+325,Archie Buff,,,,MALE,United States,1964,1964,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-5,1,0
+326,Armie Buff,,,,FEMALE,United States,2015,2016,,,TRUE,150,PW_SOJ,PW_SOJ,6-5,0,0
+327,Ives Shineto,,,,MALE,United States,1943,1943,,,TRUE,,PW_SOJ,PW_SOJ,6-5,0,0
+328,Lah'kee,,,,MALE,Khura'in,,,,,TRUE,,PW_SOJ,PW_SOJ,6-5,0,0
+329,Dumas Gloomsbury,,,,MALE,United States,2003,2003,2028,2028,FALSE,,PW_SOJ,PW_SOJ,6-6,0,0
+330,Sorin Sprocket,,,,MALE,United States,2004,2004,,,TRUE,171,PW_SOJ,PW_SOJ,6-6,0,0
+331,Selena Sprocket,,,,FEMALE,United States,2002,2002,2027,2027,FALSE,,PW_SOJ,PW_SOJ,6-6,0,0
+332,Ellen Wyatt,,,,FEMALE,United States,2007,2007,,,TRUE,160,PW_SOJ,PW_SOJ,6-6,0,0
+333,Pierce Nichody,,,,MALE,United States,2002,2002,,,TRUE,177,PW_SOJ,PW_SOJ,6-6,0,1
+334,Rei Membami,,,,FEMALE,Japan,1885,1886,,,TRUE,,TGAA2,TGAA2,G2-1,0,0
+335,Raiten Menimemo,,,,MALE,Japan,1863,1864,,,TRUE,,TGAA2,TGAA2,G2-1,0,1
+336,Quinby Altamont,,,,FEMALE,United Kingdom,1863,1864,,,TRUE,,TGAA2,TGAA2,G2-2,0,0
+337,Selden,,,,MALE,United Kingdom,,,1901,1901,FALSE,,TGAA2,TGAA2,G2-2,0,1
+338,Odie Asman,,,,MALE,United Kingdom,1856,1857,1902,1902,FALSE,,TGAA2,TGAA2,G2-3,0,0
+339,Courtney Sithe; Courtney Stevens,,,,FEMALE,United Kingdom,1862,1863,,,TRUE,,TGAA2,TGAA2,G2-3,1,1
+340,Maria Gorey,,,,FEMALE,United Kingdom,1882,1883,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+341,Albert Harebrayne,,,,MALE,United Kingdom,1868,1869,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+342,Enoch Drebber,,,,MALE,United Kingdom,1866,1867,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+343,Wilhelm Gottsreich Sigismond Ormstein; Gotts,,,,MALE,Czech Republic,1890,1891,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+344,Wilhelm Gottsreich Sigismond von Ormstein,,,,MALE,Czech Republic,,,,,TRUE,,TGAA2,TGAA2,G2-3,1,0
+345,Jane the Ripper,,,,FEMALE,United Kingdom,,,,1902,FALSE,,TGAA2,TGAA2,G2-3,0,1
+346,Juror 1 (middle-aged man),,,,MALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+347,Evie Vigil,,,,FEMALE,United Kingdom,1865,1866,,,FALSE,,TGAA2,TGAA2,G2-3,2,0
+348,Daley Vigil,,,,MALE,United Kingdom,1861,1862,,,TRUE,,TGAA2,TGAA2,G2-4,2,0
+349,Balthazar Lune,,,,MALE,Italy,1859,1860,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+350,Juror 3 (magician),,,,MALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+351,Juror 4 (scientist),,,,MALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+352,Juror 5 (young girl),,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+353,Juror 6 (policeman),,,,MALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+354,Ottermole,,,,MALE,United Kingdom,,,1901,1901,FALSE,,TGAA2,TGAA2,G2-3,0,1
+355,Madame Pluyette,,,,FEMALE,France,,,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+356,Esmeralda Tusspells,,,,FEMALE,France,1875,1876,,,TRUE,,TGAA2,TGAA2,G2-3,0,0
+357,Barry Caidin,,,,MALE,United Kingdom,1850,1851,,,TRUE,,TGAA2,TGAA2,G2-4,0,0
+358,Peppino de Rossi,,,,MALE,Italy,1876,1877,,,TRUE,,TGAA2,TGAA2,G2-4,0,0
+359,Fabien de Rousseau,,,,MALE,France,1875,1876,,,TRUE,,TGAA2,TGAA2,G2-4,0,0
+360,Jabez,,,,MALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-4,0,0
+361,Venus,,,,FEMALE,United Kingdom,,,,,TRUE,,TGAA2,TGAA2,G2-4,0,0
+362,Lady Baskerville,,,,FEMALE,United Kingdom,,,1892,1892,FALSE,,TGAA2,TGAA2,G2-5,1,0
+363,Ayame Mikotoba,,,,FEMALE,Japan,,,1886,1886,FALSE,,TGAA2,TGAA2,G2-5,1,0
+364,Tchikin Strogenov,,,,MALE,Russia,,,,,TRUE,,TGAA2,TGAA2,G2-5,0,0

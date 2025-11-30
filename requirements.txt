@@ -10,3 +10,9 @@ scikit-learn
 tensorflow
 keras
 keras-tuner
+geopandas
+geodatasets
+descartes
+adjustText
+networkx
+nltk
